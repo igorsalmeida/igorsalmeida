@@ -4,3 +4,4 @@ Sou um recente aprendiz de desenvolvimento de software. Sou graduado de Gestão 
 Atualmente estou me dedicando ao estudo da area relacionada a Front End (logica de programação, HTML, CSS e JAVASCRIPT).
 
 f
+k
